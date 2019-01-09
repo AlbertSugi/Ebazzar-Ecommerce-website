@@ -19,3 +19,9 @@ The program uses:<br/>
 7. Type 'python run.py' in the command line, it will output a website link, copy and paste that website link to a browser. <br/>
    In this step, if there is any libary that you did not import, there will be an error stating 'No Module name ....'
 
+# Database Workflow
+Below here is the ERD Diagram of Ebazzar Website.
+<p align="center">
+  <img src="https://github.com/AlbertSugi/Pictures/blob/master/Untitled%20Diagram%20(2).jpg"><br/>
+</p><br/>
+
