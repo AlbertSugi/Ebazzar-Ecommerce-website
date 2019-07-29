@@ -4,7 +4,7 @@ The program uses:<br/>
 * ***Front End*** : Html 5, Bootstrap<br/>
 * ***Back End***  : Python<br/>
 * ***Framework*** : Flask<br/>
-* ***Database***  : Myphpadmin<br/>
+* ***Database***  : MySQLdb<br/>
 
 # To Run the Application
 1. Install required libraries in order for the app to run. The list of libaries can be found in Libary Requirements.txt<br/>
